@@ -1,9 +1,11 @@
-[![Version](https://img.shields.io/badge/Version-0.0.0-blue)](https://83hn4m.streamlit.app)
-[![Status](https://img.shields.io/badge/Status-cold_start-yellow)](https://83hn4m.streamlit.app)
+[![Version](https://img.shields.io/badge/Version-0.0.1-blue)](https://83hn4m.streamlit.app)
+[![Status](https://img.shields.io/badge/Status-text_tools-yellow)](https://83hn4m.streamlit.app)
 [![Revision](https://img.shields.io/badge/Last_Edit-Nov_2023-green)](https://83hn4m.streamlit.app)
 
 # Toolbox
-I keep my tools here, feel free to use.
+I'm just keeping my tools here, feel free to use and share.
+This app is going to be hosted in your own system, so the cache will be cleared every time you refresh the page.
+So your data and privacy is safe.
 
 ## Streamlit process
 Just clone the repo in your system, open a terminal in the folder:
@@ -13,6 +15,11 @@ streamlit run Toolbox.py
 That's it!
 
 ## Github process
+
+### 0- Git Account Setting:
+```
+git config --global user.email "email@example.com"
+```
 
 ### 1- New Repo:
 ```
