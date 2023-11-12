@@ -2,13 +2,8 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 from streamlit_extras.grid import grid
-from st_keyup import st_keyup
-import secp256k1
-from Crypto.Hash import keccak
-import os
 import hashlib
 import random
-import numpy as np
 
 # --- PAGE CONFIG (BROWSER TAB) ---
 st.set_page_config(page_title="Toolbox", page_icon=":toolbox:", layout="centered", initial_sidebar_state="expanded")
